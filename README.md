@@ -18,7 +18,7 @@ Coding Challenge Generator is a Streamlit-based application that creates customi
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/coding-challenge-generator.git
+   git clone https://github.com/lalomorales22/CodingChallengeGenerator-Streamlit100.git
    cd coding-challenge-generator
    ```
 
